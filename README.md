@@ -1,7 +1,7 @@
 # <img src="img/GitHub-logo.gif" height="48" /> About Me:
 
-My name is Amanda B. Godinho, I'm 16 years old student trying to delve deeper into programming. Here you will get to know me a little more and follow some ideas.
-🔭 I'm currently working on improving my programming skills<br>🔍 I'm learning Python, Javascript and PHP.<br>🐾 Looking for help with project ideas so I can improve my skills<br>💬 Pronoums: she/her<br>🐼 Fun fact: I love art and I'm always making a new painting
+My name is Amanda B. Godinho, I'm 16 years old student trying to delve deeper into programming. Here you will get to know me a little more and follow some ideas.<br>
+🔭 I'm currently working on improving my programming skills<br><br>🔍 I'm learning Python, Javascript and PHP.<br><br>🐾 Looking for help with project ideas so I can improve my skills<br><br>💬 Pronoums: she/her<br><br>🐼 Fun fact: I love art and I'm always making a new painting
 
 
 ## 🌐 Socials:
